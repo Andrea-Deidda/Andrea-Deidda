@@ -1,5 +1,6 @@
-# Hi👋, I'm Andrea Deidda
-### Software Engineer
+<h1 align="center">Hi 👋, I'm Andrea Deidda</h1>
+<h3 align="center">Software Engineer</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andrea-Deidda)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Andrea-Deidda/Andrea-Deidda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
